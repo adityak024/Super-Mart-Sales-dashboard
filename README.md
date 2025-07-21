@@ -12,21 +12,21 @@ Total Returns: 5,901
 
 Average Delivery Time: 4 days
 
-* Key Insights
-Top Region: West leads in sales with 33%, followed by East (29%), Central (22%), and South (16%).
+** Key Insights
+* Top Region: West leads in sales with 33%, followed by East (29%), Central (22%), and South (16%).
 
-Customer Segments: Consumer dominates sales at 48%, Corporate accounts for 33%, and Home Office takes 19%.
+* Customer Segments: Consumer dominates sales at 48%, Corporate accounts for 33%, and Home Office takes 19%.
 
-Preferred Payment Mode: Cash on Delivery (43%) is most used, ahead of Online (35%) and Cards (22%).
+* Preferred Payment Mode: Cash on Delivery (43%) is most used, ahead of Online (35%) and Cards (22%).
 
-Sales by Category: Office Supplies lead, followed by Technology and Furniture.
+* Sales by Category: Office Supplies lead, followed by Technology and Furniture.
 
-Best-Selling Products: Phones are the top sub-category, with notable sales in Chairs, Binders, and Storage.
+* Best-Selling Products: Phones are the top sub-category, with notable sales in Chairs, Binders, and Storage.
 
-Shipping Mode: Standard Class generates the most revenue.
+* Shipping Mode: Standard Class generates the most revenue.
 
-State Performance: California, New York, and Texas show the highest sales.
+* State Performance: California, New York, and Texas show the highest sales.
 
-Year-over-Year Growth: 2020 sales and profits surpassed 2019 levels, especially in March, August, and November.
+* Year-over-Year Growth: 2020 sales and profits surpassed 2019 levels, especially in March, August, and November.
 
-Operational Note: High returns and average delivery times indicate opportunities for process improvements.
+* Operational Note: High returns and average delivery times indicate opportunities for process improvements.
