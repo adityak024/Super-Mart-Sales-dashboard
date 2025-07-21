@@ -12,7 +12,7 @@ Total Returns: 5,901
 
 Average Delivery Time: 4 days
 
-Key Insights
+* Key Insights
 Top Region: West leads in sales with 33%, followed by East (29%), Central (22%), and South (16%).
 
 Customer Segments: Consumer dominates sales at 48%, Corporate accounts for 33%, and Home Office takes 19%.
